@@ -6,7 +6,7 @@ public class Work {
 
 	public static void main(String[] args) {
 	Scanner scanner = new Scanner(System.in);
-	System.out.println("请输入當前的分數");
+	System.out.println("请输入当前的分数");
 	int score = scanner.nextInt();	
 	if (score >= 90 && score<= 100) {
 		System.out.println("一个优秀的分数,你好棒啊");
@@ -24,5 +24,5 @@ public class Work {
 	}
 	}		
 }		
-		
+	
 
